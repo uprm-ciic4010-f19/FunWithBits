@@ -7,9 +7,9 @@ public class Main {
 
 		int binaryNumber = 0b10001111;
 
-		int octalNumber = 0117;
+		int octalNumber = 0217;
 
-		int hexNumber = 0x4F;
+		int hexNumber = 0x8F;
 
 		System.out.println("0b10001111 = " + Integer.toBinaryString(binaryNumber));
 		System.out.println("0117 = " + Integer.toBinaryString(octalNumber));
